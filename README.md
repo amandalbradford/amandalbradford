@@ -8,6 +8,6 @@ I'm Amanda Bradford, and I'm a Research Ecologist at the [Pacific Islands Fisher
 -   🎓 I received my B.S. in [Marine Biology](https://www.tamug.edu/marb/index.html) from [Texas A&M University at Galveston](https://www.tamug.edu/) and my M.S. and Ph.D. in [Aquatic and Fishery Sciences](https://fish.uw.edu/) from the [University of Washington](http://www.washington.edu/)
 -   🚀 I'm a proponent of open science and accessibility and am a member of the [NMFS Open Science](https://nmfs-opensci.github.io/) community
 -   🙋‍♀️ I'm a founding member and co-organizer of the [Women in Marine Mammal Science (WIMMS)](https://wimms.weebly.com/) Initiative
--   👀 You can find me on [Twitter](https://twitter.com/amandalbradford) (for now, RIP) and [ORCID](https://orcid.org/0000-0002-3236-834X) or email me at [amanda.bradford\@noaa.gov](mailto:amanda.bradford@noaa.gov){.email}
+-   👀 You can find me on [Twitter](https://twitter.com/amandalbradford) (for now, RIP) and [ORCID](https://orcid.org/0000-0002-3236-834X) or email me at [amanda.bradford\@noaa.gov](mailto:amanda.bradford@noaa.gov)
 
 Thanks for stopping by!
